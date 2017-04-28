@@ -79,7 +79,7 @@ const (
 	ContentRange                  = "Content-Range"
 	ETag                          = "ETag"
 	Expires                       = "Expires"
-	LastModified                  = "LastModified"
+	LastModified                  = "Last-Modified"
 	Link                          = "Link"
 	Location                      = "Location"
 	P3P                           = "P3P"
