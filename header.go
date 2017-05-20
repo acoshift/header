@@ -38,6 +38,7 @@ const (
 	XForwardedFor       = "X-Forwarded-For"
 	XForwardedHost      = "X-Forwarded-Host"
 	XForwardedProto     = "X-Forwarded-Proto"
+	XRealIP             = "X-Real-IP"
 	XHttpMethodOverride = "X-Http-Method-Override"
 	XCsrfToken          = "X-Csrf-Token"
 	XCSRFToken          = "X-CSRFToken"
